@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets\Capa.png" width="400" alt="Capa do Projeto -  E-Book">
+    <img src="assets\Banner.png" width="400" alt="Capa do Projeto -  E-Book">
 </p>
 
 
