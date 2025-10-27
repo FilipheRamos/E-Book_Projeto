@@ -40,8 +40,7 @@ Projeto desenvolvido com o uso de IAs, realizando o uso de prompts mais trabalha
     &nbsp&nbsp&nbsp
     <a href="https://www.linkedin.com/in/filipe-ramos-/">
     LinkedIn</a>&nbsp;
-&nbsp;|
-    <a href="https://www.instagram.com/filiph_19/">
+&nbsp;|   <a href="https://www.instagram.com/filiph_19/">
     Instagram</a>
 &nbsp;</p>
 </p>
