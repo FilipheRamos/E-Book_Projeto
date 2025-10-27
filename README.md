@@ -7,7 +7,7 @@
 -------------------------------------------------------------
 Projeto desenvolvido com o uso de IAs, realizando o uso de prompts mais trabalhados.
 
-[E-Book](output\E-book.pdf)
+[E-Book](https://filipheramos.github.io/E-Book_Projeto/)
 
 # *Tecnologias utilizadas no projeto*
 - [ChatGPT](https://chatgpt.com/)
