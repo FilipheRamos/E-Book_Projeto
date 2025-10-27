@@ -5,7 +5,9 @@
 
 # Projeto Criado por IAs
 -------------------------------------------------------------
-Projeto desenvolvido com o uso de IAs, realizando o uso de prompts mais tabalhados.
+Projeto desenvolvido com o uso de IAs, realizando o uso de prompts mais trabalhados.
+
+[E-Book](output\E-book.pdf)
 
 # *Tecnologias utilizadas no projeto*
 - [ChatGPT](https://chatgpt.com/)
@@ -37,11 +39,11 @@ Projeto desenvolvido com o uso de IAs, realizando o uso de prompts mais tabalhad
     <p>&nbsp&nbsp&nbspFilipe Ramos<br>
     &nbsp&nbsp&nbsp
     <a href="https://www.linkedin.com/in/filipe-ramos-/">
-    LinkedIn</a>&nbsp;|&nbsp;
-&nbsp;|&nbsp;
-    <a href="https:https://www.linkedin.com/in/filipe-ramos-/">
+    LinkedIn</a>&nbsp;
+&nbsp;|
+    <a href="https://www.instagram.com/filiph_19/">
     Instagram</a>
-&nbsp;|&nbsp;</p>
+&nbsp;</p>
 </p>
 <br/><br/>
 <p>
